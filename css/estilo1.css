@@ -1,0 +1,75 @@
+#principal
+{
+    margin: auto;
+    margin-top: 80px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(24, 183, 201);
+}
+#oreja-1
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(50, 58, 215);
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    right: 70px;
+    bottom: 80px;
+}
+#oreja-2
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(50, 58, 215);
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 260px;
+    bottom: 80px;
+}
+#ojo-1
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    bottom: 60px;
+    right: 100px;
+    transform: rotate(45deg);
+}
+#ojo-2
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    bottom: 160px;
+    left: 100px;
+    transform: rotate(45deg);
+}
+#nariz
+{
+    width: 130px;
+    height: 130px;
+    background-color: red;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 90px;
+}
+#boca
+{
+    width: 400px;
+    height: 80px;
+    background-color: rgb(119, 28, 161);
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    right: 35px;
+}
+
